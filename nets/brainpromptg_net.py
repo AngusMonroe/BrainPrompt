@@ -80,6 +80,7 @@ class BrainPromptGNet(nn.Module):
         llm_sim = self.sim(meta_repr)
         binary_matrix = self.dropout(((hg_sim * llm_sim) > 0.8).float())
         fused_repr = self.global_gcs(hg, binary_matrix)
+        fused_repr = fused_repr + hg + meta_repr
 
         self.fused_repr = fused_repr
         self.label_reprs = self.label_transform(self.label_embs.to(device))

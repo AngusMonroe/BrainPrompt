@@ -74,6 +74,7 @@ class BrainPromptCNet(torch.nn.Module):
         llm_sim = self.sim(meta_repr)
         binary_matrix = ((hg_sim * llm_sim) > 0.7).float()
         fused_repr = self.global_gcs(out, binary_matrix)
+        fused_repr = fused_repr + hg + meta_repr
 
         self.fused_repr = fused_repr
         self.label_reprs = self.label_transform(self.label_embs.to(device))
