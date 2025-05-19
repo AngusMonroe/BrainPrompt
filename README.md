@@ -3,7 +3,7 @@
 
 This is the official PyTorch implementation of BrainPrompt from the paper 
 *"	
-BrainOOD: Out-of-distribution Generalizable Brain Network Analysis"* early accepted by 28th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'25).
+BrainPrompt: Multi-Level Brain Prompt Enhancement for Neurological Condition Identification"* early accepted by 28th International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI'25).
 
 <img alt="Model" src="figs/framework.png" title="Framework"/>
 
