@@ -1,0 +1,116 @@
+Precentral_L: The left precentral gyrus, associated with motor control and planning.
+Precentral_R: The right precentral gyrus, involved in executing voluntary motor movements.
+Frontal_Sup_L: The left superior frontal gyrus, plays a role in self-awareness and cognitive control.
+Frontal_Sup_R: The right superior frontal gyrus, associated with working memory and decision-making.
+Frontal_Sup_Orb_L: The left superior frontal orbital gyrus, linked to emotional regulation and reward processing.
+Frontal_Sup_Orb_R: The right superior frontal orbital gyrus, involved in social and emotional behavior.
+Frontal_Mid_L: The left middle frontal gyrus, key in working memory and attentional processes.
+Frontal_Mid_R: The right middle frontal gyrus, supports planning and higher cognitive functions.
+Frontal_Mid_Orb_L: The left middle frontal orbital gyrus, contributes to decision-making and emotional evaluation.
+Frontal_Mid_Orb_R: The right middle frontal orbital gyrus, involved in assessing risks and rewards.
+Frontal_Inf_Oper_L: The left inferior frontal opercular gyrus, important for language production and motor speech control.
+Frontal_Inf_Oper_R: The right inferior frontal opercular gyrus, associated with response inhibition.
+Frontal_Inf_Tri_L: The left inferior frontal triangular gyrus, critical in semantic and syntactic language processing.
+Frontal_Inf_Tri_R: The right inferior frontal triangular gyrus, linked to creative thinking and abstract reasoning.
+Frontal_Inf_Orb_L: The left inferior frontal orbital gyrus, contributes to impulse control and social behavior.
+Frontal_Inf_Orb_R: The right inferior frontal orbital gyrus, plays a role in emotional regulation and attention.
+Rolandic_Oper_L: The left rolandic operculum, involved in sensory-motor integration and speech articulation.
+Rolandic_Oper_R: The right rolandic operculum, supports fine motor coordination and auditory processing.
+Supp_Motor_Area_L: The left supplementary motor area, key for motor planning and coordination.
+Supp_Motor_Area_R: The right supplementary motor area, involved in initiating movements and bimanual coordination.
+Olfactory_L: The left olfactory cortex, processes olfactory (smell) information.
+Olfactory_R: The right olfactory cortex, contributes to odor perception and memory.
+Frontal_Sup_Medial_L: The left superior medial frontal gyrus, plays a role in self-referential thinking and motivation.
+Frontal_Sup_Medial_R: The right superior medial frontal gyrus, involved in social cognition and emotion regulation.
+Frontal_Med_Orb_L: The left medial orbital frontal cortex, associated with emotional processing and decision-making.
+Frontal_Med_Orb_R: The right medial orbital frontal cortex, supports goal-directed behavior and reward evaluation.
+Rectus_L: The left gyrus rectus, linked to emotional and olfactory functions.
+Rectus_R: The right gyrus rectus, associated with social cognition and value processing.
+Insula_L: The left insular cortex, critical for interoception, pain perception, and emotional awareness.
+Insula_R: The right insular cortex, involved in empathy, risk assessment, and body awareness.
+Cingulum_Ant_L: The left anterior cingulate cortex, key in conflict monitoring and emotional regulation.
+Cingulum_Ant_R: The right anterior cingulate cortex, supports attention control and decision-making.
+Cingulum_Mid_L: The left mid-cingulate cortex, involved in motor planning and pain processing.
+Cingulum_Mid_R: The right mid-cingulate cortex, supports cognitive control and response selection.
+Cingulum_Post_L: The left posterior cingulate cortex, important for memory and spatial navigation.
+Cingulum_Post_R: The right posterior cingulate cortex, involved in self-referential thought and consciousness.
+Hippocampus_L: The left hippocampus, essential for memory formation and spatial navigation.
+Hippocampus_R: The right hippocampus, supports emotional memory and contextual information processing.
+ParaHippocampal_L: The left parahippocampal gyrus, involved in scene recognition and memory encoding.
+ParaHippocampal_R: The right parahippocampal gyrus, supports spatial memory and navigation.
+Amygdala_L: The left amygdala, processes emotions such as fear and pleasure.
+Amygdala_R: The right amygdala, important for emotional learning and threat detection.
+Calcarine_L: The left calcarine cortex, the primary visual cortex for processing visual stimuli.
+Calcarine_R: The right calcarine cortex, supports visual perception and processing.
+Cuneus_L: The left cuneus, involved in basic visual processing and spatial orientation.
+Cuneus_R: The right cuneus, plays a role in visual attention and imagery.
+Lingual_L: The left lingual gyrus, supports visual memory and word recognition.
+Lingual_R: The right lingual gyrus, involved in processing complex visual information.
+Occipital_Sup_L: The left superior occipital gyrus, contributes to visual attention and spatial awareness.
+Occipital_Sup_R: The right superior occipital gyrus, involved in motion perception and visual integration.
+Occipital_Mid_L: The left middle occipital gyrus, supports object recognition and visual memory.
+Occipital_Mid_R: The right middle occipital gyrus, contributes to scene perception and spatial reasoning.
+Occipital_Inf_L: The left inferior occipital gyrus, involved in face and object recognition.
+Occipital_Inf_R: The right inferior occipital gyrus, supports processing of complex visual stimuli.
+Fusiform_L: The left fusiform gyrus, critical for face and word recognition.
+Fusiform_R: The right fusiform gyrus, supports visual object and facial recognition.
+Postcentral_L: The left postcentral gyrus, the primary somatosensory cortex for tactile information processing.
+Postcentral_R: The right postcentral gyrus, involved in proprioception and sensory integration.
+Parietal_Sup_L: The left superior parietal lobule, involved in spatial orientation and attention.
+Parietal_Sup_R: The right superior parietal lobule, supports visuospatial coordination and sensory integration.
+Parietal_Inf_L: The left inferior parietal lobule, critical for language comprehension and mathematical reasoning.
+Parietal_Inf_R: The right inferior parietal lobule, associated with attention and spatial awareness.
+SupraMarginal_L: The left supramarginal gyrus, key in phonological processing and empathy.
+SupraMarginal_R: The right supramarginal gyrus, involved in emotional processing and proprioception.
+Angular_L: The left angular gyrus, important for reading, writing, and arithmetic tasks.
+Angular_R: The right angular gyrus, supports creativity and problem-solving.
+Precuneus_L: The left precuneus, plays a role in self-referential thought and episodic memory retrieval.
+Precuneus_R: The right precuneus, involved in visuospatial imagery and consciousness.
+Paracentral_Lobule_L: The left paracentral lobule, supports motor and sensory processing of the lower limbs.
+Paracentral_Lobule_R: The right paracentral lobule, contributes to bladder control and leg movement.
+Caudate_L: The left caudate nucleus, involved in motor control and procedural learning.
+Caudate_R: The right caudate nucleus, supports reward processing and habit formation.
+Putamen_L: The left putamen, critical for motor skill learning and execution.
+Putamen_R: The right putamen, involved in movement regulation and coordination.
+Pallidum_L: The left pallidum, contributes to voluntary movement and inhibitory control.
+Pallidum_R: The right pallidum, supports motor functions and reward processing.
+Thalamus_L: The left thalamus, acts as a relay center for sensory and motor signals.
+Thalamus_R: The right thalamus, integrates and processes sensory information for cortical regions.
+Heschl_L: The left Heschl's gyrus, the primary auditory cortex, crucial for processing sound.
+Heschl_R: The right Heschl's gyrus, supports auditory perception and pitch discrimination.
+Temporal_Sup_L: The left superior temporal gyrus, key in language comprehension and auditory processing.
+Temporal_Sup_R: The right superior temporal gyrus, involved in music perception and social cognition.
+Temporal_Pole_Sup_L: The left superior temporal pole, associated with semantic memory and social processing.
+Temporal_Pole_Sup_R: The right superior temporal pole, supports emotional and social understanding.
+Temporal_Mid_L: The left middle temporal gyrus, involved in language and semantic memory processing.
+Temporal_Mid_R: The right middle temporal gyrus, supports visual perception and social cognition.
+Temporal_Pole_Mid_L: The left middle temporal pole, important for processing abstract language and meaning.
+Temporal_Pole_Mid_R: The right middle temporal pole, linked to episodic memory and emotional regulation.
+Temporal_Inf_L: The left inferior temporal gyrus, supports object recognition and visual memory.
+Temporal_Inf_R: The right inferior temporal gyrus, involved in facial recognition and visual processing.
+Cerebelum_Crus1_L: The left cerebellar crus I, involved in cognitive processes and working memory.
+Cerebelum_Crus1_R: The right cerebellar crus I, supports planning and motor coordination.
+Cerebelum_Crus2_L: The left cerebellar crus II, associated with higher-order cognitive functions.
+Cerebelum_Crus2_R: The right cerebellar crus II, contributes to spatial reasoning and motor control.
+Cerebelum_3_L: The left cerebellar lobule III, supports motor execution and reflexive actions.
+Cerebelum_3_R: The right cerebellar lobule III, involved in fine motor control.
+Cerebelum_4_5_L: The left cerebellar lobules IV and V, essential for balance and posture.
+Cerebelum_4_5_R: The right cerebellar lobules IV and V, support coordination and motor learning.
+Cerebelum_6_L: The left cerebellar lobule VI, plays a role in cognitive processing and motor planning.
+Cerebelum_6_R: The right cerebellar lobule VI, involved in motor control and visual-spatial tasks.
+Cerebelum_7b_L: The left cerebellar lobule VIIb, supports visuospatial and working memory tasks.
+Cerebelum_7b_R: The right cerebellar lobule VIIb, associated with sensorimotor integration.
+Cerebelum_8_L: The left cerebellar lobule VIII, contributes to balance and coordination.
+Cerebelum_8_R: The right cerebellar lobule VIII, supports motor precision and timing.
+Cerebelum_9_L: The left cerebellar lobule IX, involved in cognitive and affective processing.
+Cerebelum_9_R: The right cerebellar lobule IX, contributes to emotional regulation.
+Cerebelum_10_L: The left cerebellar lobule X, essential for vestibular and balance functions.
+Cerebelum_10_R: The right cerebellar lobule X, supports equilibrium and spatial orientation.
+Vermis_1_2: The vermis lobules I and II, play a role in coordination of motor activity.
+Vermis_3: The vermis lobule III, contributes to posture and balance.
+Vermis_4_5: The vermis lobules IV and V, support motor execution and coordination.
+Vermis_6: The vermis lobule VI, involved in cognitive and emotional regulation.
+Vermis_7: The vermis lobule VII, supports spatial awareness and balance.
+Vermis_8: The vermis lobule VIII, associated with coordination of fine motor skills.
+Vermis_9: The vermis lobule IX, plays a role in cognitive and affective processing.
+Vermis_10: The vermis lobule X, contributes to vestibular function and balance.
